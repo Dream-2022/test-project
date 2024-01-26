@@ -4,6 +4,7 @@ for(var i=0;i<10;i++){
 for(var w=10;w<20;w++){
     console.log(w)
 }
+
 for(let j=0;j<5;j++){
     console.log(j)
 }
@@ -15,6 +16,10 @@ console.log("凌肖")
 
 console.log("nox")
 
+
+console.log("nox")
+console.log("很想死")
+
 console.log("很想死")
 console.log("想死")
 
@@ -22,3 +27,4 @@ console.log("不知道改什么")
 console.log("123")
 console.log("234")
 console.log("345")
+
