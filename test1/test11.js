@@ -19,9 +19,23 @@ console.log("许墨")
 console.log("白起")
 console.log("周棋洛")
 console.log("凌肖")
+<<<<<<< HEAD
+
+console.log("nox")
+<<<<<<< HEAD
+console.log("很想死")
+=======
+
+console.log("想死")
+>>>>>>> lxh
+=======
 console.log("不知道改什么")
+<<<<<<< HEAD
 =======
 console.log("123")
 console.log("234")
 console.log("345")
 >>>>>>> pyz
+=======
+>>>>>>> ba7d94a8d77a20493f4f25a1f09c88b873a698f2
+>>>>>>> 8a29b5b95a4a2e0c182e9e4af7271647da870d22
